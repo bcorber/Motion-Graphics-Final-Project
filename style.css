@@ -1,0 +1,138 @@
+#wrapper                {
+                        position: relative;
+                        width: 1250px;
+                        height: 625px;
+                        }
+
+
+
+#login                  {
+                        color: #ffffff;
+                        font-family: "bariol";
+                        font-size: 20pt;
+                        text-align: center;
+                        padding-top: 3px;
+                        padding-bottom: 2px;
+                        display: block;
+                        height: 30px;
+                        width: 120px;
+                        border-radius: 5px;
+                        margin-top: 25px;
+                        margin-left: auto;
+                        margin-right: auto;
+                        }
+
+input[type="button"]    {
+                        display: block;
+                        font-family: "bariol";
+                        background-color: #39E2FC;
+                        color: #fff;
+                        font-size: 15px;
+                        width: 120px;
+                        height: 30px;
+                        border-radius: 5px;
+                        }
+
+#logo                   {
+                        display: block;
+                        background-position: center;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-top: 75px;
+                        }
+
+.logo:hover             {
+                        transform: rotate(1080deg);
+                        -webkit-transform: rotate(1080deg);
+                        transition: 2s;
+                        }
+
+a                       { 
+                        color: #ffffff;
+                        }
+
+.nav                    {
+                        text-align: center;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-top: 50px;
+                        padding-left: 100px;
+                        padding-right: 100px;
+                        text-align: center;
+                        font-family: "bariol";
+                        display: inline;
+                        color: #858989;
+                        }
+
+#nav                    {
+                        padding-left: 100px;
+                        padding-right: 100px;
+                        margin-top: 50px;
+                        text-align: center;
+                        font-family: "bariol";
+                        display: inline;
+                        margin-left: auto;
+                        margin-right: auto;
+                        
+                        }
+
+#log                    {
+                        text-decoration: none;
+                        }
+
+#account                {
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        text-align: center;
+                        margin-top: 15px;
+                        width: 900px;
+                        height: 50px;
+                        
+                        }
+
+#create                 {
+                        color: #39E2FC;
+                        font-family: "bariol";
+                        font-size: 15px;
+                        margin-bottom: 50px;
+                        }
+
+#waves                  {
+                        margin-top: 25px;
+                        display: block;
+                        position: relative;
+                        }
+
+#blue                   {
+                        background-position: top;
+                        color: #ffffff;
+                        font-family: "bariol";
+                        text-align: center;
+                        line-height: inherit;
+                        height: 200px;
+                        width: 1250px;
+                        background-color: #39E2FC;
+                        }
+
+#bluewrap               {
+                        -webkit-transition: all 1s ease-in-out;
+                        -moz-transition: all 1s ease-in-out;
+                        -o-transition: all 1s ease-in-out;
+                        transition: all 1s ease-in-out;
+                        }
+
+
+#bluewrap:hover         {
+                        transform: translate(0,-75px);
+                        font-size: 20px;
+                         
+                        }
+
+#bottomblue             {
+                        z-index: -10;
+                        position:absolute;
+                        height: 200px;
+                        width: 1250px;
+                        background-color: #39E2FC;
+                        }
